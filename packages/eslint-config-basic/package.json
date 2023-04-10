@@ -1,0 +1,15 @@
+{
+  "name": "@lelouch-xue/eslint-plugin-basic",
+  "version": "0.0.1",
+  "description": "我的自定义eslint库",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["xray", "eslint-config"],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^8.38.0"
+  }
+}
